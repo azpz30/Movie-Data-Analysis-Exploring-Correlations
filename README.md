@@ -3,7 +3,7 @@ Explore movie data analysis 🎬📊 Uncover correlations between budget, releas
 
 Welcome to my movie data analysis project! 🎬📊 In this repository, I've delved into a dataset containing valuable information about movies, including budget, release year, votes, and gross earnings. Through careful data cleaning, structuring, and exploratory analysis, I've unveiled intriguing insights and correlations that shed light on the factors influencing a movie's revenue.
 
-Project Highlights:
+**Project Highlights:**
 
 Cleaned and structured the raw movie data to ensure accurate analysis.
 Utilized Python packages such as pandas, numpy, seaborn, and matplotlib for data manipulation and visualization.
@@ -15,7 +15,7 @@ This project is a testament to the power of data analysis in unraveling patterns
 
 Feel free to explore the notebooks, code, and visualizations to see how these factors interact and influence a movie's success. Don't hesitate to leave feedback, suggestions, or questions—I'm excited to continue refining and expanding this analysis. Let's embark on this cinematic journey of data exploration together! 🎥📈
 
-Packages Used:
+**Packages Used:**
 
 pandas
 numpy
@@ -24,7 +24,7 @@ matplotlib
 Dataset Source:
 The raw movie data used for this analysis is sourced from the Kaggle dataset by DanielGrijalvas. To replicate the analysis on your machine, make sure to download the dataset from the provided link and update the data file path accordingly.
 
-Note: The 'movies.csv' file in this repository is a sample from the Kaggle dataset and is used for illustrative purposes.
+**Note:** The 'movies.csv' file in this repository is a sample from the Kaggle dataset and is used for illustrative purposes.
 
 
 
