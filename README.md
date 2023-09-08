@@ -1,6 +1,8 @@
 # Movie-Data-Analysis-Exploring-Correlations
 Dive into the captivating realm of movie data analysis with my latest project! 🎥📊 In this repository, I've taken on a comprehensive exploration of movie-related insights by leveraging a rich dataset from Kaggle. This dataset, available at [this Kaggle link](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download), includes essential information such as budget, release year, votes, and gross earnings for a wide range of movies.
 
+<img width="899" alt="corr_movie" src="https://github.com/azpz30/Movie-Data-Analysis-Exploring-Correlations/assets/76789643/07c54259-ee4a-45f9-b569-a322b3361282">
+
 **Project Highlights:**
 - Cleaned and meticulously structured the dataset to ensure accuracy and consistency in analysis.
 - Utilized Python libraries, including pandas, numpy, seaborn, and matplotlib, to transform raw data into meaningful visualizations and correlations.
